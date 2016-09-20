@@ -1,2 +1,0 @@
-# passage
-laravel-blog
